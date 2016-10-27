@@ -9,6 +9,7 @@ demo：https://tanghaiyan.github.io/toolbar-sass/
    使用了大量图片，对性能有一定影响，不利于修改
    
 2、使用字体图标
+   https://icomoon.io/app/#/select  下载图标字体网站
    避免了图片的使用节约性能，修改方便
    html结构稍显复杂
    不兼容IE6、IE7
@@ -46,4 +47,3 @@ css样式采用sass编写
       添加代码Encoding.default_external = Encoding.find('utf-8');
 
    
-
